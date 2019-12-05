@@ -1,0 +1,4 @@
+# Project exclude paths
+/com-server1/target/
+/com-server2/target/
+/zuul-server/target/
